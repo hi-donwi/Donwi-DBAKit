@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for considering a contribution to DBA-Toolkit.
+Thanks for considering a contribution to DONWI DBAKit.
 
 ## Ground rules
 
@@ -20,7 +20,7 @@ Thanks for considering a contribution to DBA-Toolkit.
 
 ```sh
 git clone git@github.com:hi-donwi/Donwi-DBAKit.git
-cd DBA-Toolkit
+cd Donwi-DBAKit
 make fmt && make vet && make test
 ```
 

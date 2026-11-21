@@ -49,7 +49,7 @@ type healthHeader interface {
 // renderHealth prints the header card followed by the Findings section.
 func renderHealth(w io.Writer, rep *model.Report, opts Options) {
 	c := ansi(opts.NoColor)
-	fmt.Fprintln(w, c.Bold("DBA-Toolkit PostgreSQL Health Check"))
+	fmt.Fprintln(w, c.Bold("DONWI DBAKit PostgreSQL Health Check"))
 	fmt.Fprintln(w)
 
 	data, _ := rep.Data.(healthHeader)

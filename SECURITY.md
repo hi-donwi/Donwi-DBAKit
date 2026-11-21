@@ -1,6 +1,6 @@
 # Security
 
-DBA-Toolkit is a **read-only** diagnostic tool, but it still handles database
+DONWI DBAKit is a **read-only** diagnostic tool, but it still handles database
 credentials, so security is treated as part of the product, not an add-on.
 
 ## Reporting a vulnerability
@@ -10,7 +10,7 @@ privately instead, and include the version, the affected command, and any
 reproduction information you can share safely.
 
 - Open a private security advisory: `https://github.com/hi-donwi/Donwi-DBAKit/security/advisories/new`
-- Or email the maintainers and mention "DBA-Toolkit security" in the subject.
+- Or email the maintainers and mention "DONWI DBAKit security" in the subject.
 
 You will receive an acknowledgement, and we will coordinate a fix and a
 disclosure timeline with you. We are happy to credit private reporters unless

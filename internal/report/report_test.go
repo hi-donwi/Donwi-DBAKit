@@ -360,7 +360,7 @@ func TestHumanTop(t *testing.T) {
 	}
 	out := buf.String()
 
-	if !strings.Contains(out, "DBA-Toolkit PostgreSQL Live Monitor (dbakit top)") {
+	if !strings.Contains(out, "DONWI DBAKit PostgreSQL Live Monitor (dbakit top)") {
 		t.Errorf("missing top title in:\n%s", out)
 	}
 	if !strings.Contains(out, "PostgreSQL: 16.4") || !strings.Contains(out, "Role: primary") {

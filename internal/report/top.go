@@ -16,7 +16,7 @@ func FormatTopSnapshot(snap model.TopSnapshot, conn model.Connectivity, findings
 	c := ansi(noColor)
 
 	// Header line
-	fmt.Fprintf(&buf, "%s%s\n", c.Bold("DBA-Toolkit PostgreSQL Live Monitor (dbakit top)"), topDbSuffix(conn))
+	fmt.Fprintf(&buf, "%s%s\n", c.Bold("DONWI DBAKit PostgreSQL Live Monitor (dbakit top)"), topDbSuffix(conn))
 	fmt.Fprintln(&buf, c.Gray(strings.Repeat("-", 78)))
 
 	// Metrics card
