@@ -19,7 +19,7 @@ Thanks for considering a contribution to DBA-Toolkit.
 ## Getting started
 
 ```sh
-git clone git@github.com:hi-donwi/DBA-Toolkit.git
+git clone git@github.com:hi-donwi/Donwi-DBAKit.git
 cd DBA-Toolkit
 make fmt && make vet && make test
 ```

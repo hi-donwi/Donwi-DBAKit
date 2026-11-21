@@ -1,6 +1,6 @@
 package report
 
-import "github.com/hi-donwi/DBA-Toolkit/internal/model"
+import "github.com/hi-donwi/Donwi-DBAKit/internal/model"
 
 // Command data wrappers give each command's report a stable `data` JSON shape
 // shared by the terminal renderers and machine consumers.

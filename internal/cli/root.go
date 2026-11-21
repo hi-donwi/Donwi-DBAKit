@@ -13,7 +13,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/hi-donwi/DBA-Toolkit/internal/config"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/config"
 	"github.com/spf13/cobra"
 )
 

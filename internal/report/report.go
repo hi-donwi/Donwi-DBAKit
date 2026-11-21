@@ -9,7 +9,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/hi-donwi/DBA-Toolkit/internal/model"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/model"
 )
 
 // Options controls terminal rendering.

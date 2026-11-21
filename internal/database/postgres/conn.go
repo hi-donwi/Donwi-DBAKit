@@ -10,8 +10,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/hi-donwi/DBA-Toolkit/internal/config"
-	"github.com/hi-donwi/DBA-Toolkit/internal/database"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/config"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/database"
 	"github.com/jackc/pgx/v5"
 )
 

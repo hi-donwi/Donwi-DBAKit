@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hi-donwi/DBA-Toolkit/internal/model"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/model"
 )
 
 func TestTopCmdStructure(t *testing.T) {

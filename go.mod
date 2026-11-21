@@ -1,4 +1,4 @@
-module github.com/hi-donwi/DBA-Toolkit
+module github.com/hi-donwi/Donwi-DBAKit
 
 go 1.26.5
 
