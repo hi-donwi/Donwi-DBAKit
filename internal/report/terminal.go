@@ -5,7 +5,7 @@ import (
 	"io"
 	"text/tabwriter"
 
-	"github.com/hi-donwi/DBA-Toolkit/internal/model"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/model"
 )
 
 // renderTableCommand prints the per-command table views for sessions, locks,

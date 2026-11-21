@@ -3,7 +3,7 @@ package evaluator
 import (
 	"fmt"
 
-	"github.com/hi-donwi/DBA-Toolkit/internal/model"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/model"
 )
 
 // EvaluateCache evaluates database and per-table buffer cache hit ratios,

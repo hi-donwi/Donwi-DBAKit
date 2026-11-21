@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/hi-donwi/DBA-Toolkit/internal/model"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/model"
 )
 
 // EvaluateTopQueries evaluates pg_stat_statements statistics for slow queries,

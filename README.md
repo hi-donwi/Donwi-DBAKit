@@ -1,4 +1,4 @@
-# DBA-Toolkit
+# DONWI DBAKit
 
 A small, **read-only** command-line toolkit for PostgreSQL diagnostics, health
 checks, and troubleshooting. The binary is `dbakit`.
@@ -24,7 +24,7 @@ stable JSON for scripts and monitoring.
 ## Install
 
 ```sh
-go install github.com/hi-donwi/DBA-Toolkit/cmd/dbakit@latest
+go install github.com/hi-donwi/Donwi-DBAKit/cmd/dbakit@latest
 # or, from the checkout:
 make build          # writes ./dbakit
 ```

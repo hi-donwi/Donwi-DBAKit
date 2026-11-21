@@ -8,8 +8,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/hi-donwi/DBA-Toolkit/internal/database"
-	"github.com/hi-donwi/DBA-Toolkit/internal/model"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/database"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/model"
 )
 
 // Collector issues the MVP's read-only probes against one connection.

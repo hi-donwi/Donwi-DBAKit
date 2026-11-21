@@ -5,9 +5,9 @@ VERSION ?= 0.1.0
 GIT_COMMIT ?= $(shell git rev-parse --short HEAD 2>/dev/null || echo dev)
 BUILD_DATE ?= $(shell date -u +%Y-%m-%dT%H:%M:%SZ)
 
-LDFLAGS := -X github.com/hi-donwi/DBA-Toolkit/internal/cli.Version=$(VERSION) \
-           -X github.com/hi-donwi/DBA-Toolkit/internal/cli.GitCommit=$(GIT_COMMIT) \
-           -X github.com/hi-donwi/DBA-Toolkit/internal/cli.BuildDate=$(BUILD_DATE)
+LDFLAGS := -X github.com/hi-donwi/Donwi-DBAKit/internal/cli.Version=$(VERSION) \
+           -X github.com/hi-donwi/Donwi-DBAKit/internal/cli.GitCommit=$(GIT_COMMIT) \
+           -X github.com/hi-donwi/Donwi-DBAKit/internal/cli.BuildDate=$(BUILD_DATE)
 
 build:
 	go build -trimpath -ldflags '$(LDFLAGS)' -o $(BINARY) ./cmd/dbakit

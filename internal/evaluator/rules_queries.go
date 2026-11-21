@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hi-donwi/DBA-Toolkit/internal/model"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/model"
 )
 
 // EvaluateLongQueries flags sessions that have been running at or above the

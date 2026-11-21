@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hi-donwi/DBA-Toolkit/internal/config"
-	"github.com/hi-donwi/DBA-Toolkit/internal/model"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/config"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/model"
 )
 
 func sampleReport() *model.Report {

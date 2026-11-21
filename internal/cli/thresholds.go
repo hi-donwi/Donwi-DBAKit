@@ -3,7 +3,7 @@ package cli
 import (
 	"time"
 
-	"github.com/hi-donwi/DBA-Toolkit/internal/evaluator"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/evaluator"
 	"github.com/spf13/cobra"
 )
 

@@ -3,7 +3,7 @@ package evaluator
 import (
 	"fmt"
 
-	"github.com/hi-donwi/DBA-Toolkit/internal/model"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/model"
 )
 
 // EvaluateConnectivity turns a connection result into a PASS or CRITICAL

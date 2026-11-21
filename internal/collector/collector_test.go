@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hi-donwi/DBA-Toolkit/internal/database"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/database"
 )
 
 // fakeRow is one result row of any values.

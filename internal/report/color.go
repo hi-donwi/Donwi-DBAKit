@@ -1,7 +1,7 @@
 package report
 
 import (
-	"github.com/hi-donwi/DBA-Toolkit/internal/model"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/model"
 )
 
 // colors holds ANSI escape sequences; sequences are empty when NoColor is set.

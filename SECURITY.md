@@ -9,7 +9,7 @@ Please do **not** open a public issue for security problems. Report them
 privately instead, and include the version, the affected command, and any
 reproduction information you can share safely.
 
-- Open a private security advisory: `https://github.com/hi-donwi/DBA-Toolkit/security/advisories/new`
+- Open a private security advisory: `https://github.com/hi-donwi/Donwi-DBAKit/security/advisories/new`
 - Or email the maintainers and mention "DBA-Toolkit security" in the subject.
 
 You will receive an acknowledgement, and we will coordinate a fix and a

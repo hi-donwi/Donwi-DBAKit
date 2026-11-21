@@ -8,11 +8,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hi-donwi/DBA-Toolkit/internal/collector"
-	"github.com/hi-donwi/DBA-Toolkit/internal/config"
-	"github.com/hi-donwi/DBA-Toolkit/internal/evaluator"
-	"github.com/hi-donwi/DBA-Toolkit/internal/model"
-	"github.com/hi-donwi/DBA-Toolkit/internal/report"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/collector"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/config"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/evaluator"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/model"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/report"
 	"github.com/spf13/cobra"
 )
 

@@ -8,7 +8,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/hi-donwi/DBA-Toolkit/internal/model"
+	"github.com/hi-donwi/Donwi-DBAKit/internal/model"
 )
 
 // Rule documents one diagnostic rule: its stable ID, title, and group. The
