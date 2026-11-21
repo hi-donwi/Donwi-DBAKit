@@ -1,5 +1,5 @@
 // Package model defines the shared, engine-agnostic types produced by the
-// DBA-Toolkit pipeline: raw collected data, normalized findings, and the final
+// DONWI DBAKit pipeline: raw collected data, normalized findings, and the final
 // report. Collectors fill the *Data types, evaluators turn them into findings,
 // and reporters serialize the report for a terminal or JSON consumer.
 package model
